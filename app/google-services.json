@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031786432798",
+    "firebase_url": "https://tinfa-app.firebaseio.com",
+    "project_id": "tinfa-app",
+    "storage_bucket": "tinfa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031786432798:android:3d13df6981ec9b19fd610f",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031786432798-rqeo0qn27pgts23eg9j2ipsa2hrfjt56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "aed23f90965e09b5716644320d9b4e092dd177c1"
+          }
+        },
+        {
+          "client_id": "1031786432798-4p6udottiq8tbfs7cqo2t9qvbthdhjf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDQGos5wXrNYA2ITjoRVrccpjk-GWvYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031786432798-4p6udottiq8tbfs7cqo2t9qvbthdhjf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
